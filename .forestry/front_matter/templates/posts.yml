@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/combo.html
 hide_body: false
 fields:
 - name: layout
